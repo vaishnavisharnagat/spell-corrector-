@@ -45,7 +45,7 @@ Spell-Corrector/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/spell-corrector.git
+git clone [https://github.com/yourusername/spell-corrector](https://github.com/vaishnavisharnagat/spell-corrector-.git)
 ```
 
 ### 2. Open the Project Folder
